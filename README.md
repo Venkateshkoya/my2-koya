@@ -36,3 +36,25 @@ Recommended Sports to play
 > Life cannot have a random beginning - *Albert Einstein*
 >
 > Education is the key to unlock the golden door of freedom - *Carver*
+
+---
+
+### Code Fencing
+
+<https://www.techopedia.com/definition/9522/stack-overflow#:~:text=A%20stack%20overflow%20is%20a,run%20and%20use%20memory%20properly.>
+
+```
+if (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off'
+    || $_SERVER['SERVER_PORT'] == 443) {
+
+  // HTTPS
+
+} else {
+
+  // HTTP
+
+}
+
+```
+
+<https://css-tricks.com/snippets/>
