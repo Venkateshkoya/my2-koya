@@ -18,3 +18,14 @@ unordered list
 * pizza
 
 [MyStats](MyStats.md)
+
+---
+
+### TABLES
+Recommended Sports to play
+|Name of the sport | Reason for Recommendation | Hours per week |
+| ---              | ---                       | ---            |
+| Cricket          | Balance and Coordination  | 4-6 hours      |
+| Volleyball       | Exercise the body muscles | 9-12 hours     |
+| Chess            | Improve cognitive skills  | 6-8 hours      |
+| Shuttle          | Strengthen muscles        | 3-5 hours      |
