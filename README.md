@@ -29,3 +29,10 @@ Recommended Sports to play
 | Volleyball       | Exercise the body muscles | 9-12 hours     |
 | Chess            | Improve cognitive skills  | 6-8 hours      |
 | Shuttle          | Strengthen muscles        | 3-5 hours      |
+
+---
+
+### Pithy Quotes
+> Life cannot have a random beginning - *Albert Einstein*
+>
+> Education is the key to unlock the golden door of freedom - *Carver*
